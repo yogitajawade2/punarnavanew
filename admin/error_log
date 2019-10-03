@@ -1,0 +1,23 @@
+[06-Apr-2019 07:17:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/punarnavaco/public_html/admin/includes/config.php on line 2
+[06-Apr-2019 13:04:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/punarnavaco/public_html/admin/includes/validate.php:854) in /home1/punarnavaco/public_html/admin/delete_admin.php on line 7
+[06-Apr-2019 13:05:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/punarnavaco/public_html/admin/includes/validate.php:854) in /home1/punarnavaco/public_html/admin/delete_admin.php on line 7
+[06-Apr-2019 13:05:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/punarnavaco/public_html/admin/includes/validate.php:854) in /home1/punarnavaco/public_html/admin/delete_admin.php on line 7
+[08-Apr-2019 05:39:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/punarnavaco/public_html/admin/includes/validate.php:877) in /home1/punarnavaco/public_html/admin/delete_admin.php on line 7
+[08-Apr-2019 05:42:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/punarnavaco/public_html/admin/includes/validate.php:877) in /home1/punarnavaco/public_html/admin/delete_admin.php on line 7
+[08-Apr-2019 06:32:21 UTC] PHP Fatal error:  Call to undefined function validate_editphoto() in /home1/punarnavaco/public_html/admin/editPhotosDetail.php on line 72
+[08-Apr-2019 06:59:37 UTC] PHP Parse error:  syntax error, unexpected '{' in /home1/punarnavaco/public_html/admin/editPhotosDetail.php on line 81
+[08-Apr-2019 06:59:44 UTC] PHP Parse error:  syntax error, unexpected '{' in /home1/punarnavaco/public_html/admin/editPhotosDetail.php on line 81
+[08-Apr-2019 06:59:50 UTC] PHP Parse error:  syntax error, unexpected '{' in /home1/punarnavaco/public_html/admin/editPhotosDetail.php on line 81
+[08-Apr-2019 06:59:53 UTC] PHP Parse error:  syntax error, unexpected '{' in /home1/punarnavaco/public_html/admin/editPhotosDetail.php on line 81
+[08-Apr-2019 07:00:11 UTC] PHP Parse error:  syntax error, unexpected '{' in /home1/punarnavaco/public_html/admin/editPhotosDetail.php on line 81
+[08-Apr-2019 07:00:14 UTC] PHP Parse error:  syntax error, unexpected '{' in /home1/punarnavaco/public_html/admin/editPhotosDetail.php on line 81
+[08-Apr-2019 07:43:50 UTC] PHP Parse error:  syntax error, unexpected '{' in /home1/punarnavaco/public_html/admin/editPhotosDetail.php on line 81
+[08-Apr-2019 07:44:22 UTC] PHP Parse error:  syntax error, unexpected '{' in /home1/punarnavaco/public_html/admin/editPhotosDetail.php on line 81
+[08-Apr-2019 07:44:55 UTC] PHP Parse error:  syntax error, unexpected '{' in /home1/punarnavaco/public_html/admin/editPhotosDetail.php on line 81
+[08-Apr-2019 07:45:04 UTC] PHP Parse error:  syntax error, unexpected '{' in /home1/punarnavaco/public_html/admin/editPhotosDetail.php on line 81
+[08-Apr-2019 08:47:18 UTC] PHP Fatal error:  Call to undefined function move_uploads_files() in /home1/punarnavaco/public_html/admin/editPhotosDetail.php on line 83
+[08-Apr-2019 08:47:43 UTC] PHP Fatal error:  Call to undefined function move_uploads_files() in /home1/punarnavaco/public_html/admin/editPhotosDetail.php on line 83
+[08-Apr-2019 08:53:22 UTC] PHP Fatal error:  Call to undefined function move_uploads_files() in /home1/punarnavaco/public_html/admin/editPhotosDetail.php on line 83
+[08-Apr-2019 08:58:38 UTC] PHP Fatal error:  Call to undefined function move_uploads_files() in /home1/punarnavaco/public_html/admin/editPhotosDetail.php on line 83
+[08-Apr-2019 10:09:50 UTC] PHP Fatal error:  Call to undefined function move_uploads_files() in /home1/punarnavaco/public_html/admin/editPhotosDetail.php on line 83
+[08-Apr-2019 10:13:02 UTC] PHP Fatal error:  Call to undefined function move_uploads_files() in /home1/punarnavaco/public_html/admin/editPhotosDetail.php on line 83

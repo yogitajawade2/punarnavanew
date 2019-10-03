@@ -1,0 +1,48 @@
+/*.one-img{ background: url(../images/banner/b1.jpg) no-repeat 0px 0px;}
+.two-img{ background: url(../images/banner/b2.jpg) no-repeat 0px 0px;}
+.three-img{ background: url(../images/banner/b3.jpg) no-repeat 0px 0px;}
+.slider-img {
+-webkit-background-size: cover;
+background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+-ms-background-size: cover;
+min-height: 800px;}
+
+.button { background: url(../images/bb1.jpg)no-repeat center;
+}
+.jst-matter{   background: url(../images/bb1.jpg)no-repeat center;}
+.button,.jst-matter{
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+-ms-background-size: cover;
+height:413px;
+}
+.jst-color {
+padding: 5em 2em;
+}
+.green
+{
+	background-color: #33691E;
+}
+.faint-green
+{
+	background-color: #C5E1A5;
+}
+.img-shadow
+{
+	position: absolute;
+	top: 36px;
+	right: 38px;
+	left: -55px;
+	bottom: 0px;
+	z-index: 1;
+	width: 100%;
+	height: 389px;
+	box-shadow: 4px 3px 16px 6px rgba(0,0,0,0.6);
+}
+.img-hold{
+ position: relative;
+ z-index: 0;
+}*/
